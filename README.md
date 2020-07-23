@@ -29,6 +29,3 @@ Bike sharing systems are a means of renting bicycles where the process of obtain
 - **cnt: count of total rental bikes including both casual and registered**
 -------------------------
 
-**categorical : season, hr, mnth, weekday, weathersit**
-**Already Normalized: temp, hum, windspeed**
-**For normalization : casual, registed, cnt**
